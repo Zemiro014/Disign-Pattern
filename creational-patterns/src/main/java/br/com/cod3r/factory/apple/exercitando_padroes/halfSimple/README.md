@@ -1,0 +1,1 @@
+Nesta versão do projecto foi aplicado o Factor Method mas de um jeito intermediário, ou seja, de um jeito que terá uma fábrica para gerar um Iphone junto com as suas versões
